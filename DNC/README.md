@@ -26,7 +26,7 @@ National Education Association President
 - AFSCME President Lee Saunders
 - AFL-CIO President Richard Trumka
 - American Federation of Teachers President Randi Weingarten
-- First Lady Michelle Obama
+- **First Lady Michelle Obama**
 - **Senator Bernie Sanders**
 - DREAMer Astrid Silva
 - **Senator Elizabeth Warren**
@@ -37,6 +37,8 @@ Others
 - **Senator Kristen Gillibrand**
 - **Senator Bob Casey**
 - **Leah D. Daughtry, CEO Democratic National Convention Committee**
+- **Senator Al Franken**
+
 
 **Tuesday:**
 
