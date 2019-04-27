@@ -27,10 +27,16 @@ National Education Association President
 - AFL-CIO President Richard Trumka
 - American Federation of Teachers President Randi Weingarten
 - First Lady Michelle Obama
-- Senator Bernie Sanders
+- **Senator Bernie Sanders**
 - DREAMer Astrid Silva
-- Senator Elizabeth Warren
+- **Senator Elizabeth Warren**
 
+Others
+
+- **Actress Sarah Silverman**
+- **Senator Kristen Gillibrand**
+- **Senator Bob Casey**
+- **Leah D. Daughtry, CEO Democratic National Convention Committee**
 
 **Tuesday:**
 
