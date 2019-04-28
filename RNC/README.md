@@ -6,6 +6,10 @@ The list of speakers were retrieved from [POLITICO](https://www.politico.com/sto
 
 Contents are separated in folders by day. The files that are included in the folders are in **bold** on this README.
 
+Not all the speakers are here, but this may be a helpful repository: https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-587548981.html
+
+Time Magazine also provides complete transcripts
+
 ## Schedule of Speakers
 
 ### **Monday**
@@ -82,7 +86,7 @@ Catholic Diocese of Brooklyn, NY
 - Remarks Willie Robertson Duck Dynast
 - Remarks The Hon. Rick Perry Former Governor of Texas
 - Remarks Marcus Luttrell Former Navy SEAL
-- Remarks Scott Baio Actor
+- **Remarks Scott Baio Actor**
 - Remarks Pat Smith Gold Star Mother
 - Video Benghazi
 - Remarks Mark Geist & John Tiegen Benghazi Annex Security Team
@@ -136,23 +140,23 @@ To Be Announced
 - Remarks The Hon. Ron Johnson U.S. Senator
 - Remarks Chris Cox Executive director of the NRA Institute for Legislative Action
 - Remarks Natalie Gulbis Professional Golfer
-- Remarks Senate Majority Leader Mitch McConnell
+- **Remarks Senate Majority Leader Mitch McConnell**
 Temporary Chair
 - Remarks “We Stand United”
 Members of the U.S. Senate
-- Remarks Speaker Paul Ryan
-Permanent Chair
-- Remarks The Hon. Kevin McCarthy
-House Majority Leader
-- Remarks The Hon. Chris Christie
-Governor
+- **Remarks Speaker Paul Ryan
+Permanent Chair**
+- **Remarks The Hon. Kevin McCarthy
+House Majority Leader**
+- **Remarks The Hon. Chris Christie
+Governor**
 - Remarks Tiffany Trump
 - Entertainment The Sensations
 - Remarks Kerry Woolard General Manager, Trump Winery
-- Remarks Donald Trump, Jr.
+- **Remarks Donald Trump, Jr.**
 - Remarks The Hon. Shelley Moore Capito
 U.S. Senator
-- Remarks Dr. Ben Carson
+- **Remarks Dr. Ben Carson**
 - Remarks Kimberlin Brown
 Actress
 - Benediction Sajid Tarar
