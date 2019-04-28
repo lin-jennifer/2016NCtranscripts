@@ -8,9 +8,11 @@ Contents are separated in folders by day. The files that are included in the fol
 
 An archive of the DNC speech transcripts can also be found in this [InfoDocket](https://www.infodocket.com/2016/07/26/in-the-news-text-of-speeches-delivered-at-2016-democratic-national-convention/) link
 
+C-SPAN's repository of all the videos of the speakers - manual transcription may be needed: https://www.c-span.org/DemocraticNationalConvention
+
 ## Schedule of Speakers
 
-**Monday:**   
+### **Monday:**   
  
 - Lily Eskelsen Garcia  
 - Congressman Keith Ellison (Minnesota)
@@ -28,7 +30,7 @@ National Education Association President
 - American Federation of Teachers President Randi Weingarten
 - **First Lady Michelle Obama**
 - **Senator Bernie Sanders**
-- DREAMer Astrid Silva
+- **DREAMer Astrid Silva**
 - **Senator Elizabeth Warren**
 
 Others
@@ -40,10 +42,10 @@ Others
 - **Senator Al Franken**
 
 
-**Tuesday:**
+### **Tuesday:**
 
-- Former U.S. Senator Tom Harkin (Iowa)
-- Kentucky Secretary of State Alison Lundergan Grimes
+- **Former U.S. Senator Tom Harkin (Iowa)**
+- **Kentucky Secretary of State Alison Lundergan Grimes**
 - Governor Terry McAuliffe (Virginia)
 - House Democratic Leader Nancy Pelosi (California) and the Democratic Women of the House
 - Former State Senator Jason Carter (Georgia)
@@ -81,7 +83,7 @@ Others
 - Actress Meryl Streep
 - Performance by Alicia Keys
 
-**Wednesday:** 
+### **Wednesday:** 
 
 - Daniel Driffin, HIV/AIDS activist from Georgia
 - Neera Tanden, President of the Center for American Progress Action Fund
@@ -131,7 +133,7 @@ Others
 - President Barack Obama
 
 
-**Thursday:**
+### **Thursday:**
 
 -  Gene Karpinski, President of the League of Conservation Voters
 -  Peggy Flanagan, Minnesota State Representative
