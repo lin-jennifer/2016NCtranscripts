@@ -140,8 +140,7 @@ To Be Announced
 - Remarks The Hon. Ron Johnson U.S. Senator
 - Remarks Chris Cox Executive director of the NRA Institute for Legislative Action
 - Remarks Natalie Gulbis Professional Golfer
-- **Remarks Senate Majority Leader Mitch McConnell**
-Temporary Chair
+- **Remarks Senate Majority Leader Mitch McConnell Temporary Chair**
 - Remarks “We Stand United”
 Members of the U.S. Senate
 - **Remarks Speaker Paul Ryan
@@ -150,7 +149,7 @@ Permanent Chair**
 House Majority Leader**
 - **Remarks The Hon. Chris Christie
 Governor**
-- Remarks Tiffany Trump
+- **Remarks Tiffany Trump**
 - Entertainment The Sensations
 - Remarks Kerry Woolard General Manager, Trump Winery
 - **Remarks Donald Trump, Jr.**
