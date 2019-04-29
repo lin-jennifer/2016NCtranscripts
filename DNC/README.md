@@ -118,19 +118,19 @@ Others
 - Former Philadelphia Police Commissioner Charles Ramsey
 - Actress Angela Bassett
 - Felicia Sanders & Polly Sheppard, survivors of AME Church shooting in Charleston, South Carolina
-- Gabby Giffords & Mark Kelly
+- **Gabby Giffords** & Mark Kelly
 - Rear Admiral John Hutson (Ret. USN)
 - Kristen Kavanaugh, former Marine Corps captain
 - Former Congressman and Secretary of Defense Leon Panetta
 - U.S. Senator Sherrod Brown (Ohio)
 - Dr. Jill Biden
-- Vice President Joe Biden
+- **Vice President Joe Biden**
 - Atlanta Mayor Kasim Reed
-- Michael Bloomberg, former mayor of New York City
+- **Michael Bloomberg, former mayor of New York City**
 - Performance by Lenny Kravitz
-- Democratic Nominee for Vice President Tim Kaine
+- **Democratic Nominee for Vice President Tim Kaine**
 - Sharon Belkofer, mother of fallen solider
-- President Barack Obama
+- **President Barack Obama**
 
 
 ### **Thursday:**
