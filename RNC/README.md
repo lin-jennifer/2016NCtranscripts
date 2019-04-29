@@ -194,7 +194,7 @@ First Female Commander, U.S. Space Shuttle
 - **Remarks The Hon. Scott Walker Governor**
 - Video Lynne Patton – The Trump Family I Know
 - Remarks Lynne Patton The Eric Trump Foundation
-- Video Senator Marco Rubio
+- **Video Senator Marco Rubio**
 - **Remarks The Hon. Ted Cruz U.S. Senator**
 - Video My Father, Donald Trump
 - **Remarks Eric Trump**
@@ -230,8 +230,8 @@ Governor
 Korean Americans for Trump
 - Video Where You Lead
 - Video Built to Win
-- Remarks Reince Priebus
-Chair, Republican National Committee
+- **Remarks Reince Priebus
+Chair, Republican National Committee**
 - Remarks Jerry Falwell, Jr.
 President, Liberty University
 - Remarks Peter Thiel
@@ -239,7 +239,7 @@ Entrepreneur
 - Remarks Tom Barrack
 Chief Executive Officer, Colony Capital
 - Video Donald J. Trump
-- Remarks Ivanka Trump
+- **Remarks Ivanka Trump**
 - **Remarks Donald J. Trump Presidential Nominee**
 - Benediction Roger W. Gries Auxiliary Bishop Emeritus
 
