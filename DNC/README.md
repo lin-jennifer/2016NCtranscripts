@@ -177,12 +177,12 @@ Others
 -  Lupe Valdez, Dallas Sheriff
 -  Jennifer Loudon, Wayne Walker, Wayne Owens, Barbara Owens; family members of fallen law enforcement officers
 -  Reverend William Barber
--  Khizr Khan, father of soldier who died serving the Army after 9/11 attacks
+-  **Khizr Khan, father of soldier who died serving the Army after 9/11 attacks**
 -  Ted Lieu, U.S. Representative from California
 -  General John Allen (ret. USMC), former Commander, International Security Assistance Forces, and Commander, United States Forces - Afghanistan
 -  Florent Groberg, Retired U.S. Army Captain 
 -  Chloe Grace Moretz
 -  Xavier Becerra, U.S. Representative from California
 -  Sherrod Brown, U.S. Senator from Ohio
--  Chelsea Clinton, Introduction of Hillary Clinton
--  Hillary Clinton
+-  **Chelsea Clinton, Introduction of Hillary Clinton**
+-  **Hillary Clinton**
