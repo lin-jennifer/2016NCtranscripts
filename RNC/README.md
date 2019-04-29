@@ -6,7 +6,6 @@ The list of speakers were retrieved from [POLITICO](https://www.politico.com/sto
 
 Contents are separated in folders by day. The files that are included in the folders are in **bold** on this README.
 
-Not all the speakers are here, but this may be a helpful repository: https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-587548981.html
 
 Time Magazine also provides complete transcripts
 
@@ -74,6 +73,8 @@ Co-Chair, Committee on Platform and U.S. Representative
 
 ### **Monday Continued**
 
+https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-300300379.html (7-18-2016)
+
 - Convention Called to Order Reince Priebus Chair, Republican National Committee
 - Presentation of the Colors Parma Fire Department
 Parma, OH
@@ -83,8 +84,8 @@ Parma, OH
 Denver, KY
 - Invocation Monsignor Keiran Harrington
 Catholic Diocese of Brooklyn, NY
-- Remarks Willie Robertson Duck Dynast
-- Remarks The Hon. Rick Perry Former Governor of Texas
+- **Remarks Willie Robertson Duck Dynasty**
+- **Remarks The Hon. Rick Perry Former Governor of Texas**
 - Remarks Marcus Luttrell Former Navy SEAL
 - **Remarks Scott Baio Actor**
 - Remarks Pat Smith Gold Star Mother
@@ -100,11 +101,11 @@ U.S. Representative
 - Remarks Darryl Glenn Candidate for U.S. Senate
 - Remarks The Hon. Tom Cotton U.S. Senator
 - Remarks Karen Vaughn For Our Son
-- Remarks The Hon. Jeff Sessions U.S. Senator
-- Remarks The Hon. Rudy Giuliani Former Mayor, New York City
-- Remarks Mrs. Melania Trump
-- Remarks U.S. Army Lt. General Michael T. Flynn, Ret. Former Director, Defense Intelligence Agency
-- Remarks The Hon. Joni Ernst U.S. Senator
+- **Remarks The Hon. Jeff Sessions U.S. Senator**
+- **Remarks The Hon. Rudy Giuliani Former Mayor, New York City**
+- **Remarks Mrs. Melania Trump**
+- **Remarks U.S. Army Lt. General Michael T. Flynn, Ret. Former Director, Defense Intelligence Agency**
+- **Remarks The Hon. Joni Ernst U.S. Senator**
 - Remarks Jason Beardsley Special Operations Adviser, Concerned Veterans for America
 - Remarks The Hon. Ryan Zinke U.S. Representative
 - Benediction Pastor Paula White New Destiny Christian Center
@@ -112,6 +113,8 @@ U.S. Representative
 ### **Tuesday**
 
 *Make America Work Again*
+
+https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-587548981.html
 
 - Convention Called to Order Reince Priebus Chair, Republican National Committee
 - Presentation of the Colors Cleveland Police Department Cleveland, OH
@@ -165,6 +168,8 @@ Founder, American Muslims for Trump
 
 *Make America First Again*
 
+https://www.prnewswire.com/news-releases/2016-gop-convention-releases-prepared-remarks-for-wednesday-evening-program-speakers-587719321.html 
+
 - Convention Called to Order Reince Priebus
 Chair, Republican National Committee
 - Presentation of the Colors Local Boy Scout Troop
@@ -202,6 +207,8 @@ Vice Presidential Nominee and Governor
 ### **Thursday**
 
 *Make America One Again*
+
+https://www.prnewswire.com/news-releases/2016-gop-convention-prepared-remarks-for-thursday-evening-speakers-587888442.html
 
 - Convention Called to Order Reince Priebus
 Chair, Republican National Committee
