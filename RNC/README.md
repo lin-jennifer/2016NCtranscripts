@@ -7,7 +7,7 @@ The list of speakers were retrieved from [POLITICO](https://www.politico.com/sto
 Contents are separated in folders by day. The files that are included in the folders are in **bold** on this README.
 
 
-Time Magazine also provides complete transcripts
+Time Magazine also provides complete transcripts - retrieved via google searches of speakers at the RNC
 
 ## Schedule of Speakers
 
@@ -191,17 +191,16 @@ First Female Commander, U.S. Space Shuttle
 - Remarks The Hon. Ralph Alvarado, Jr. State Senator
 - Remarks Darrell Scott Senior Pastor, New Spirit Revival Center Ministries
 - Remarks Harold Hamm CEO, Continental Resources
-- Remarks The Hon. Scott Walker Governor
+- **Remarks The Hon. Scott Walker Governor**
 - Video Lynne Patton – The Trump Family I Know
 - Remarks Lynne Patton The Eric Trump Foundation
 - Video Senator Marco Rubio
-- Remarks The Hon. Ted Cruz U.S. Senator
+- **Remarks The Hon. Ted Cruz U.S. Senator**
 - Video My Father, Donald Trump
-- Remarks Eric Trump
-- Remarks The Hon. Newt Gingrich & Callista Gingrich
-Former Speaker, U.S. House of Representatives
-- Remarks The Hon. Mike Pence
-Vice Presidential Nominee and Governor
+- **Remarks Eric Trump**
+- **Remarks The Hon. Newt Gingrich & Callista Gingrich Former Speaker, U.S. House of Representatives**
+- **Remarks The Hon. Mike Pence
+Vice Presidential Nominee and Governor**
 - Benediction His Eminence Archbishop Demetrios Greek Orthodox Archdiocese of America and Exarch of the Atlantic and Pacific Oceans
 
 ### **Thursday**
