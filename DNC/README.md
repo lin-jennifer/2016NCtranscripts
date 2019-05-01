@@ -78,8 +78,8 @@ Others
 - Former Governor of Vermont Howard Dean
 - U.S. Senator Amy Klobuchar (Minnesota)
 - Ima Matul, sex trafficking survivor and advocate 
-- Former U.S. Secretary of State Madeleine Albright
-- President Bill Clinton
+- F**ormer U.S. Secretary of State Madeleine Albright**
+- **President Bill Clinton**
 - Actress Meryl Streep
 - Performance by Alicia Keys
 
