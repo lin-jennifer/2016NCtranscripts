@@ -46,42 +46,55 @@ Others
 
 - **Former U.S. Senator Tom Harkin (Iowa)**
 - **Kentucky Secretary of State Alison Lundergan Grimes**
-- Governor Terry McAuliffe (Virginia)
-- House Democratic Leader Nancy Pelosi (California) and the Democratic Women of the House
-- Former State Senator Jason Carter (Georgia)
+- **Governor Terry McAuliffe (Virginia)**
+- **House Democratic Leader Nancy Pelosi (California) and the Democratic Women of the House**
+- **Former State Senator Jason Carter (Georgia)**
 - Video from President Jimmy Carter
-- U.S. Senator Chuck Schumer (New York)
-- Thaddeus Desmond, a child advocate social worker in Philadelphia
-- Dynah Haubert, a lawyer who works for a disability rights organization
-- Kate Burdick, staff attorney at the Juvenile Law Center in Philadelphia 
-- Anton Moore, founded and runs a non-profit community group on gun violence 
-- Dustin Parson, 5th grade teacher in Arkansas 
-- Daniele Mellott, mother of adopted son made possible through the 1997 Adoption and Safe Families Act 
-- Jelani Freeman, grew up in foster care and former intern for Clinton’s Senate office
-- Democratic National Committee Vice Chair of Voter Registration and Participation Donna Brazile
-- Eagle Academy Principal and Students
-- Former U.S. Attorney General Eric Holder
-- Pittsburgh Chief of Police Cameron McLay
-- Actor Tony Goldwyn
-- Mothers of the Movement: Gwen Carr, Mother of Eric Garner; Sybrina Fulton, Mother of Trayvon Martin; Maria Hamilton, Mother of Dontré Hamilton; Lucia McBath, Mother of Jordan Davis; Lezley McSpadden, Mother of Michael Brown; Cleopatra Pendleton-Cowley, Mother of Hadiya Pendleton; Geneva Reed-Veal, Mother of Sandra Bland
+- **U.S. Senator Chuck Schumer (New York)**
+- **Thaddeus Desmond, a child advocate social worker in Philadelphia**T
+- **Dynah Haubert, a lawyer who works for a disability rights organization**
+- **Kate Burdick, staff attorney at the Juvenile Law Center in Philadelphia** 
+- **Anton Moore, founded and runs a non-profit community group on gun violence** 
+- **Dustin Parson, 5th grade teacher in Arkansas** 
+- **Daniele Mellott, mother of adopted son made possible through the 1997 Adoption and Safe Families Act**
+- **Jelani Freeman, grew up in foster care and former intern for Clinton’s Senate office**
+- **Democratic National Committee Vice Chair of Voter Registration and Participation Donna Brazile**
+- **Eagle Academy Principal and Students - David banks**
+- **Former U.S. Attorney General Eric Holder**
+- **Pittsburgh Chief of Police Cameron McLay**
+- **Actor Tony Goldwyn**
+- **Mothers of the Movement: Gwen Carr, Mother of Eric Garner; Sybrina Fulton, Mother of Trayvon Martin; Maria Hamilton, Mother of Dontré Hamilton; Lucia McBath, Mother of Jordan Davis; Lezley McSpadden, Mother of Michael Brown; Cleopatra Pendleton-Cowley, Mother of Hadiya Pendleton; Geneva Reed-Veal, Mother of Sandra Bland**
 - Performance by Andra Day
-- President of the Planned Parenthood Action Fund Cecile Richards
-- Actresses America Fererra and Lena Dunham
-- Mayor of Columbia, South Carolina Steve Benjamin
-- U.S. Senator Barbara Boxer (California)
-- Actress Debra Messing 
-- Joe Sweeney, a detective with the NYPD on 9/11
-- Lauren Manning, injured in 9/11 attacks
-- U.S. Representative Joseph Crowley (New York)
-- Actress Erika Alexander 
-- Ryan Moore, has spondyloepiphyseal Dysplasia dwarfism
-- Former Governor of Vermont Howard Dean
-- U.S. Senator Amy Klobuchar (Minnesota)
-- Ima Matul, sex trafficking survivor and advocate 
+- **President of the Planned Parenthood Action Fund Cecile Richards**
+- **Actresses America Fererra and Lena Dunham**
+- **Mayor of Columbia, South Carolina Steve Benjamin**
+- **U.S. Senator Barbara Boxer (California)**
+- **Actress Debra Messing** 
+- **Joe Sweeney, a detective with the NYPD on 9/11**
+- **Lauren Manning, injured in 9/11 attacks**
+- **U.S. Representative Joseph Crowley (New York)**
+- **Actress Erika Alexander** 
+- **Ryan Moore, has spondyloepiphyseal Dysplasia dwarfism**
+- **Former Governor of Vermont Howard Dean**
+- **U.S. Senator Amy Klobuchar (Minnesota)**
+- **Ima Matul, sex trafficking survivor and advocate**
 - F**ormer U.S. Secretary of State Madeleine Albright**
 - **President Bill Clinton**
 - Actress Meryl Streep
 - Performance by Alicia Keys
+
+**Others**
+
+- **Dr. Sherman Jackson**
+- **Barbara A. Muikulski**
+- **John Lewis**
+- **Na'liah Amaru**
+- **Terry McAuliffe**
+- **Tulsi Gabbard**
+- **Elizabeth Banks**
+- **Paul Feeney**
+- **Shyla Nelson**
+- **Dr. Tony Campolo**
 
 ### **Wednesday:** 
 
