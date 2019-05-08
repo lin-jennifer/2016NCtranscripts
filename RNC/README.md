@@ -61,28 +61,28 @@ https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-em
 
 - **Remarks Willie Robertson Duck Dynasty**
 - **Remarks The Hon. Rick Perry Former Governor of Texas**
-- Remarks Marcus Luttrell Former Navy SEAL
+- **Remarks Marcus Luttrell Former Navy SEAL**
 - **Remarks Scott Baio Actor**
-- Remarks Pat Smith Gold Star Mother
+- **Remarks Pat Smith Gold Star Mother**
 - Video Benghazi
-- Remarks Mark Geist & John Tiegen Benghazi Annex Security Team
+- **Remarks Mark Geist & John Tiegen Benghazi Annex Security Team**
 - Video & Remarks Kent Terry & Kelly Terry-Willis
-- Remarks Antonio Sabato, Jr. Actor
+- **Remarks Antonio Sabato, Jr. Actor**
 - Remarks Mary Ann Mendoza, Sabine Durden, & Jamiel Shaw Victims of Illegal Immigrants
-- Remarks The Hon. Mike McCaul Chair, House Committee on Homeland Security and U.S. Representative
-- Remarks David A. Clarke, Jr. Sheriff, Milwaukee County, WI
+- **Remarks The Hon. Mike McCaul Chair, House Committee on Homeland Security and U.S. Representative**
+- **Remarks David A. Clarke, Jr. Sheriff, Milwaukee County, WI**
 - Remarks The Hon. Sean Duffy & Mrs. Rachel Duffy
 U.S. Representative
 - Remarks Darryl Glenn Candidate for U.S. Senate
-- Remarks The Hon. Tom Cotton U.S. Senator
+- **Remarks The Hon. Tom Cotton U.S. Senator**
 - Remarks Karen Vaughn For Our Son
 - **Remarks The Hon. Jeff Sessions U.S. Senator**
 - **Remarks The Hon. Rudy Giuliani Former Mayor, New York City**
 - **Remarks Mrs. Melania Trump**
 - **Remarks U.S. Army Lt. General Michael T. Flynn, Ret. Former Director, Defense Intelligence Agency**
 - **Remarks The Hon. Joni Ernst U.S. Senator**
-- Remarks Jason Beardsley Special Operations Adviser, Concerned Veterans for America
-- Remarks The Hon. Ryan Zinke U.S. Representative
+- **Remarks Jason Beardsley Special Operations Adviser, Concerned Veterans for America**
+- **Remarks The Hon. Ryan Zinke U.S. Representative**
 
 
 ### **Tuesday**
