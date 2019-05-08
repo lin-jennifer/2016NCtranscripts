@@ -15,17 +15,6 @@ Time Magazine also provides complete transcripts - retrieved via google searches
 
 *Make America Safe Again*
 
-- Convention Called to Order Reince Priebus, 
-Chair, Republican National Committee
-- Presentation of the Colors Cuyahoga County Veterans
-- Pledge of Allegiance Red, Write & Blue Challenge Cleveland, OH
-- The National Anthem Singing Angels Cleveland, OH
-- Invocation Rabbi Ari Wolf
-- Welcome/Certificate Statement Reince Priebus
-Chair, Republican National Committee
-- Call for the Convention Susie Hudson
-Secretary of the Convention
-- Announcement of Temporary Rules, Election of Temporary Officers, Appointment of Committees Reince Priebus Chair, Republican National Committee
 - Remarks Steve King Chair, Committee on Arrangements
 - Remarks The Hon. Frank Jackson
 Mayor, City of Cleveland
@@ -65,25 +54,11 @@ Mary Buestrin Co-Chair, Committee on Permanent Organization
 Co-Chair, Committee on Platform and Governor
 - Remarks The Hon. Virginia Foxx
 Co-Chair, Committee on Platform and U.S. Representative
-- Resolutions: RNC Membership Reince Priebus
-& Publication of Proceedings Chair, Republican National Committee
-- Official Convention Photograph
-- Benediction Pastor Mark Burns
-- The Harvest Praise & Worship Center
 
 ### **Monday Continued**
 
 https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-300300379.html (7-18-2016)
 
-- Convention Called to Order Reince Priebus Chair, Republican National Committee
-- Presentation of the Colors Parma Fire Department
-Parma, OH
-- Pledge of Allegiance Ed MacNamara
-- Prayers from Maria Foundation
-- The National Anthem Marlana VanHoose
-Denver, KY
-- Invocation Monsignor Keiran Harrington
-Catholic Diocese of Brooklyn, NY
 - **Remarks Willie Robertson Duck Dynasty**
 - **Remarks The Hon. Rick Perry Former Governor of Texas**
 - Remarks Marcus Luttrell Former Navy SEAL
@@ -108,7 +83,7 @@ U.S. Representative
 - **Remarks The Hon. Joni Ernst U.S. Senator**
 - Remarks Jason Beardsley Special Operations Adviser, Concerned Veterans for America
 - Remarks The Hon. Ryan Zinke U.S. Representative
-- Benediction Pastor Paula White New Destiny Christian Center
+
 
 ### **Tuesday**
 
@@ -116,23 +91,6 @@ U.S. Representative
 
 https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-587548981.html
 
-- Convention Called to Order Reince Priebus Chair, Republican National Committee
-- Presentation of the Colors Cleveland Police Department Cleveland, OH
-- Pledge of Allegiance Patriotic Nationality Ambassadors
-- The National Anthem Dan Polk Cleveland, OH
-- Invocation Harmeet Dhillon San Francisco, CA
-- Nomination Process for Presidential Speaker Paul Ryan Candidate Permanent Chair
-- Nominating Speeches To Be Announced
-	- The Hon. Chris Collins U.S. Representative
-	- The Hon. Henry McMaster Lieutenant Governor
-- Roll Call of the States Speaker Paul Ryan
-Permanent Chair
-- Susie Hudson Secretary of the Convention
-- Statement of the Rules Regarding 
-Senate Majority Leader Mitch McConnell
-- Requirements for Nomination of Vice-Presidential Candidate Temporary Chair
-- Vice Presidential Nominating Speech 
-To Be Announced
 - Remarks Sharon Day Co-Chair, Republican National Committee
 - Remarks Dana White President, Ultimate Fighting Championship
 - Remarks The Hon. Asa Hutchinson Governor
@@ -161,8 +119,7 @@ U.S. Senator
 - **Remarks Dr. Ben Carson**
 - Remarks Kimberlin Brown
 Actress
-- Benediction Sajid Tarar
-Founder, American Muslims for Trump
+
 
 ### **Wednesday**
 
@@ -170,14 +127,6 @@ Founder, American Muslims for Trump
 
 https://www.prnewswire.com/news-releases/2016-gop-convention-releases-prepared-remarks-for-wednesday-evening-program-speakers-587719321.html 
 
-- Convention Called to Order Reince Priebus
-Chair, Republican National Committee
-- Presentation of the Colors Local Boy Scout Troop
-- Pledge of Allegiance Margo Hudson Graduate, Seeds of Literacy
-- The National Anthem Abby Paskvan
-Bowling Green, OH
-- Invocation Nathan Johnson
-The Church of Jesus Christ of Latter-day Saints
 - Remarks Laura Ingraham
 Conservative Political Commentator
 - Video The Trump We Know
@@ -201,7 +150,7 @@ First Female Commander, U.S. Space Shuttle
 - **Remarks The Hon. Newt Gingrich & Callista Gingrich Former Speaker, U.S. House of Representatives**
 - **Remarks The Hon. Mike Pence
 Vice Presidential Nominee and Governor**
-- Benediction His Eminence Archbishop Demetrios Greek Orthodox Archdiocese of America and Exarch of the Atlantic and Pacific Oceans
+
 
 ### **Thursday**
 
@@ -209,16 +158,6 @@ Vice Presidential Nominee and Governor**
 
 https://www.prnewswire.com/news-releases/2016-gop-convention-prepared-remarks-for-thursday-evening-speakers-587888442.html
 
-- Convention Called to Order Reince Priebus
-Chair, Republican National Committee
-- Entertainment Heavenly Joy
-- Presentation of the Colors VFW Post #6846
-Cleveland, OH
-- Pledge of Allegiance To Be Announced
-- The National Anthem Ayla Brown
-Singer/Songwriter
-- Invocation Reverend Dr. Steve Bailey
-Pastor, New Philadelphia First United Methodist Church
 - Remarks Fran Tarkenton Former NFL Quarterback, Media Personality, and Businessman
 - Remarks Brock Mealer Wauseon, OH
 - Video We Win Because
@@ -241,5 +180,5 @@ Chief Executive Officer, Colony Capital
 - Video Donald J. Trump
 - **Remarks Ivanka Trump**
 - **Remarks Donald J. Trump Presidential Nominee**
-- Benediction Roger W. Gries Auxiliary Bishop Emeritus
+
 
