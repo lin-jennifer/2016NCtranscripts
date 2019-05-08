@@ -129,19 +129,20 @@ Actress**
 
 https://www.prnewswire.com/news-releases/2016-gop-convention-releases-prepared-remarks-for-wednesday-evening-program-speakers-587719321.html 
 
-- Remarks Laura Ingraham
-Conservative Political Commentator
+- **Governor Rick Scott**
+- **Remarks Laura Ingraham
+Conservative Political Commentator**
 - Video The Trump We Know
-- Remarks Phil Ruffin Businessman
-- Remarks The Hon. Pam Bondi Attorney General
+- **Remarks Phil Ruffin Businessman**
+- **Remarks The Hon. Pam Bondi Attorney General**
 - Video Apollo 11 Anniversary
-- Remarks Col. Eileen Collins, Ret.
-First Female Commander, U.S. Space Shuttle
+- **Remarks Col. Eileen Collins, Ret.
+First Female Commander, U.S. Space Shuttle**
 - Video The Plan is Real
-- Remarks Michelle Van Etten Women In Business For Trump
-- Remarks The Hon. Ralph Alvarado, Jr. State Senator
-- Remarks Darrell Scott Senior Pastor, New Spirit Revival Center Ministries
-- Remarks Harold Hamm CEO, Continental Resources
+- **Remarks Michelle Van Etten Women In Business For Trump**
+- **Remarks The Hon. Ralph Alvarado, Jr. State Senator**
+- **Remarks Darrell Scott Senior Pastor, New Spirit Revival Center Ministries**
+- **Remarks Harold Hamm CEO, Continental Resources**
 - **Remarks The Hon. Scott Walker Governor**
 - Video Lynne Patton – The Trump Family I Know
 - Remarks Lynne Patton The Eric Trump Foundation
