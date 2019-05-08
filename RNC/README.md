@@ -161,26 +161,28 @@ Vice Presidential Nominee and Governor**
 
 https://www.prnewswire.com/news-releases/2016-gop-convention-prepared-remarks-for-thursday-evening-speakers-587888442.html
 
-- Remarks Fran Tarkenton Former NFL Quarterback, Media Personality, and Businessman
-- Remarks Brock Mealer Wauseon, OH
+- **Remarks Fran Tarkenton Former NFL Quarterback, Media Personality, and Businessman**F
+- **Remarks Brock Mealer Wauseon, OH**
 - Video We Win Because
-- Remarks The Hon. Marsha Blackburn (TN)
-U.S. Representative
-- Remarks The Hon. Mary Fallin (OK)
-Governor
-- Remarks Dr. Lisa Shin
-Korean Americans for Trump
+- **Remarks The Hon. Marsha Blackburn (TN)
+U.S. Representative**
+- **Remarks The Hon. Mary Fallin (OK)
+Governor**
+- **Remarks Dr. Lisa Shin
+Korean Americans for Trump**
 - Video Where You Lead
 - Video Built to Win
 - **Remarks Reince Priebus
 Chair, Republican National Committee**
-- Remarks Jerry Falwell, Jr.
-President, Liberty University
-- Remarks Peter Thiel
-Entrepreneur
-- Remarks Tom Barrack
-Chief Executive Officer, Colony Capital
+- **Remarks Jerry Falwell, Jr.
+President, Liberty University**
+- **Remarks Peter Thiel
+Entrepreneur**
+- **Mark Burns**
+- **Remarks Tom Barrack
+Chief Executive Officer, Colony Capital**
 - Video Donald J. Trump
+- **Tony Perkins**
 - **Remarks Ivanka Trump**
 - **Remarks Donald J. Trump Presidential Nominee**
 
