@@ -91,19 +91,20 @@ U.S. Representative
 
 https://www.prnewswire.com/news-releases/gop-convention-primetime-speech-text-embargoed-for-delivery-587548981.html
 
-- Remarks Sharon Day Co-Chair, Republican National Committee
-- Remarks Dana White President, Ultimate Fighting Championship
-- Remarks The Hon. Asa Hutchinson Governor
-- Remarks The Hon. Leslie Rutledge Attorney General
-- Remarks The Hon. Michael Mukasey Former U.S. Attorney General
-- Remarks Andy Wist Businessman
+- **Remarks Sharon Day Co-Chair, Republican National Committee**
+- **Remarks Dana White President, Ultimate Fighting Championship**
+- **Remarks The Hon. Asa Hutchinson Governor**
+- **Remarks The Hon. Leslie Rutledge Attorney General**
+- **Remarks The Hon. Michael Mukasey Former U.S. Attorney General**
+- **Remarks Andy Wist Businessman**
 - Video Hil-LIAR-y
-- Remarks The Hon. Ron Johnson U.S. Senator
-- Remarks Chris Cox Executive director of the NRA Institute for Legislative Action
-- Remarks Natalie Gulbis Professional Golfer
+- **Remarks The Hon. Ron Johnson U.S. Senator**
+- **Remarks Chris Cox Executive director of the NRA Institute for Legislative Action**
+- **Remarks Natalie Gulbis Professional Golfer**
 - **Remarks Senate Majority Leader Mitch McConnell Temporary Chair**
 - Remarks “We Stand United”
-Members of the U.S. Senate
+Members of the U.S. Senate 
+- **Mitch McConnell**
 - **Remarks Speaker Paul Ryan
 Permanent Chair**
 - **Remarks The Hon. Kevin McCarthy
@@ -111,14 +112,15 @@ House Majority Leader**
 - **Remarks The Hon. Chris Christie
 Governor**
 - **Remarks Tiffany Trump**
+- **Senator Dan Sullivan**
 - Entertainment The Sensations
-- Remarks Kerry Woolard General Manager, Trump Winery
+- **Remarks Kerry Woolard General Manager, Trump Winery**
 - **Remarks Donald Trump, Jr.**
-- Remarks The Hon. Shelley Moore Capito
-U.S. Senator
+- **Remarks The Hon. Shelley Moore Capito
+U.S. Senator**
 - **Remarks Dr. Ben Carson**
-- Remarks Kimberlin Brown
-Actress
+- **Remarks Kimberlin Brown
+Actress**
 
 
 ### **Wednesday**
