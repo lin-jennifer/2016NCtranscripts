@@ -145,6 +145,10 @@ Others
 - Sharon Belkofer, mother of fallen solider
 - **President Barack Obama**
 
+**Others**
+
+- **Rev. William J. Byron**
+
 
 ### **Thursday:**
 
