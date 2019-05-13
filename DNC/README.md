@@ -98,57 +98,60 @@ Others
 
 ### **Wednesday:** 
 
-- Daniel Driffin, HIV/AIDS activist from Georgia
-- Neera Tanden, President of the Center for American Progress Action Fund
-- U.S. Representative Sheila Jackson Lee (Texas)
-- U.S. Representative Michelle Lujan Grisham (New Mexico)
-- U.S. Representative Eleanor Holmes Norton (District of Columbia)
-- U.S. Representative Adam Schiff (California)
-- U.S. Representative Maxine Waters (California)
-- President of NARAL Ilyse Hogue
-- Tallahassee Mayor Andrew Gillum
-- U.S. Representative Judy Chu (California), chair of Asian Pacific American Caucus
-- Brooks Bell, tech entrepreneur from North Carolina
-- New York City Mayor Bill de Blasio
-- U.S. Representative Ben Ray Luján (New Mexico), chair of Democratic Congressional Campaign Committee
-- Civil Rights Leader Reverend Jesse Jackson
-- Actress Star Jones
-- Flint Mayor Karen Weaver
-- U.S. Representative GK Butterfield (NC), chair of Congressional Black Caucus
-- President of EMILY’s List Stephanie Schriock
-- Senate Democratic Leader Harry Reid (Nevada)
+- **Daniel Driffin, HIV/AIDS activist from Georgia**
+- **Neera Tanden, President of the Center for American Progress Action Fund**
+- **U.S. Representative Sheila Jackson Lee (Texas)**
+- **U.S. Representative Michelle Lujan Grisham (New Mexico)**
+- **U.S. Representative Eleanor Holmes Norton (District of Columbia)**
+- **U.S. Representative Adam Schiff (California)**
+- **U.S. Representative Maxine Waters (California)**
+- **President of NARAL Ilyse Hogue**
+- **Tallahassee Mayor Andrew Gillum**
+- **U.S. Representative Judy Chu (California), chair of Asian Pacific American Caucus**
+- **Brooks Bell, tech entrepreneur from North Carolina**
+- **New York City Mayor Bill de Blasio**
+- **U.S. Representative Ben Ray Luján (New Mexico), chair of Democratic Congressional Campaign Committee**
+- **Civil Rights Leader Reverend Jesse Jackson**
+- **Actress Star Jones**
+- **Flint Mayor Karen Weaver**
+- **U.S. Representative GK Butterfield (NC), chair of Congressional Black Caucus**
+- **President of EMILY’s List Stephanie Schriock**
+- **Senate Democratic Leader Harry Reid (Nevada)**
 - California Lieutenant Governor Gavin Newsom
 - U.S. Representative Ruben Gallego (Arizona)
-- Jamie Dorff, wife of Army pilot who died in Iraq
-- Detroit Mayor Mike Duggan
-- Former Governor of Maryland Martin O'Malley
-- Actress Sigourney Weaver
-- California Governor Jerry Brown
-- Director Lee Daniels
+- **Jamie Dorff, wife of Army pilot who died in Iraq**
+- **Detroit Mayor Mike Duggan**
+- **Former Governor of Maryland Martin O'Malley**
+- **Actress Sigourney Weaver**
+- **California Governor Jerry Brown**
+- **Director Lee Daniels**
 - Christine Leinonen, son was killed in Pulse attack; Brandon Wolf and Jose Arraigada, survivors of Pulse attack
-- U.S. Senator Chris Murphy (Connecticut)
-- Erica Smegielski, daughter of Sandy Hook Elementary principal 
-- Former Philadelphia Police Commissioner Charles Ramsey
-- Actress Angela Bassett
-- Felicia Sanders & Polly Sheppard, survivors of AME Church shooting in Charleston, South Carolina
-- **Gabby Giffords** & Mark Kelly
-- Rear Admiral John Hutson (Ret. USN)
-- Kristen Kavanaugh, former Marine Corps captain
-- Former Congressman and Secretary of Defense Leon Panetta
+- **U.S. Senator Chris Murphy (Connecticut)**
+- **Erica Smegielski, daughter of Sandy Hook Elementary principal**
+- **Former Philadelphia Police Commissioner Charles Ramsey**
+- **Actress Angela Bassett**
+- **Felicia Sanders & Polly Sheppard, survivors of AME Church shooting in Charleston, South Carolina**
+- **Gabby Giffords** & **Mark Kelly**
+- **Rear Admiral John Hutson (Ret. USN)**
+- **Kristen Kavanaugh, former Marine Corps captain**
+- **Former Congressman and Secretary of Defense Leon Panetta**
 - U.S. Senator Sherrod Brown (Ohio)
-- Dr. Jill Biden
+- **Dr. Jill Biden**
 - **Vice President Joe Biden**
-- Atlanta Mayor Kasim Reed
+- **Atlanta Mayor Kasim Reed**
 - **Michael Bloomberg, former mayor of New York City**
 - Performance by Lenny Kravitz
 - **Democratic Nominee for Vice President Tim Kaine**
-- Sharon Belkofer, mother of fallen solider
+- **Sharon Belkofer, mother of fallen solider**
 - **President Barack Obama**
 
 **Others**
 
 - **Rev. William J. Byron**
-
+- **Jeff L. Grubbe**
+- **Rev. Dr. Gabriel Salguero**
+- **Robert C. Scott**
+- **Our America Block**
 
 ### **Thursday:**
 
