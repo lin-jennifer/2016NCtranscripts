@@ -155,54 +155,66 @@ Others
 
 ### **Thursday:**
 
--  Gene Karpinski, President of the League of Conservation Voters
--  Peggy Flanagan, Minnesota State Representative
--  Ted Deutch, U.S. Representative from Florida
+-  **Gene Karpinski, President of the League of Conservation Voters**
+-  **Peggy Flanagan, Minnesota State Representative**
+-  **Ted Deutch, U.S. Representative from Florida**
 -  Antonio Villaraigosa, former Mayor of Los Angeles
--  Bakari Sellers, former South Carolina State Representative
+-  **Bakari Sellers, former South Carolina State Representative**
 -  Maxine Waters, U.S. Representative from California
--  Chad Griffin, President of the Human Rights Camapaign
--  Cedric Richmond, U.S. Representative from Louisiana
--  Crisanta Duran, Colorado House Majority Leader State Representative
+-  **Chad Griffin, President of the Human Rights Camapaign**
+-  **Cedric Richmond, U.S. Representative from Louisiana**
+-  **Crisanta Duran, Colorado House Majority Leader State Representative**
 -  Gwen Moore, U.S. Representative from Wisconsin
--  Raumesh Akbari, Tennessee State Representative
--  Ruben J. Kihuen, Nevada State Senator
--  Emanuel Cleaver, U.S. Representative from Missouri
--  New York Congressman Sean Patrick Maloney, Co-Chair of the Congressional LGBT Equality Caucus
--  Sarah McBride, LGBT rights activist
--  Dolores Huerta, Civil Rights Leader
--  Joyce Beatty, U.S. Representative from Ohio
--  Governor Mark Dayton, Minnesota
--  Mayor Eric Garcetti, Los Angeles
--  Katie McGinty, U.S. Senate Candidate from Pennsylvania
--  Tammy Duckworth, U.S. Representative from Illinois
--  James Clyburn, U.S. Representative from South Carolina
--  Marlon Mashall, Hillary for America Director of States and Political Engagement
--  Nancy Pelosi, House Democratic Leader
--  Barbara Mikulski, U.S. Senator
--  Democratic Women of the Senate
--  Lorella Praeli, Hillary for America Latino Vote
--  Joaquin Castro, U.S. Representative from Texas
--  Governor Andrew Cuomo, New York
--  Tim Ryan, U.S. Representative from Ohio
--  Governor John Hickenlooper, Colorado
--  Henrietta Ivey, homecare worker and Fight for $15 activist
--  Dave Willis, Social Studies teacher
--  Beth Mathias, factory worker
--  Jensen Walcott & Jake Reed
--  Governor Tom Wolf, Pennsylvania
--  Jennifer Granholm, former Michigan governor
--  Doug Elmets, former Reagan Administration official
--  Jennifer Pierotti Lim, Director of Health Policy, U.S. Chamber of Commerce & Co-Founder of Republican Women for Hillary
--  Lupe Valdez, Dallas Sheriff
+-  **Raumesh Akbari, Tennessee State Representative**
+-  **Ruben J. Kihuen, Nevada State Senator**
+-  **Emanuel Cleaver, U.S. Representative from Missouri**
+-  **New York Congressman Sean Patrick Maloney, Co-Chair of the Congressional LGBT Equality Caucus**
+-  **Sarah McBride, LGBT rights activist-  Dolores Huerta, Civil Rights Leader**
+-  **Joyce Beatty, U.S. Representative from Ohio**
+-  **Governor Mark Dayton, Minnesota**
+-  **Mayor Eric Garcetti, Los Angeles**
+-  **Katie McGinty, U.S. Senate Candidate from Pennsylvania**
+-  **Tammy Duckworth, U.S. Representative from Illinois**
+-  **James Clyburn, U.S. Representative from South Carolina**
+-  **Marlon Mashall, Hillary for America Director of States and Political Engagement**
+-  **Nancy Pelosi, House Democratic Leader**
+-  **Barbara Mikulski, U.S. Senator**
+-  **Democratic Women of the Senate**
+-  **Lorella Praeli, Hillary for America Latino Vote**
+-  **Joaquin Castro, U.S. Representative from Texas**
+-  **Governor Andrew Cuomo, New York**
+-  **Tim Ryan, U.S. Representative from Ohio**
+-  **Governor John Hickenlooper, Colorado**
+-  **Henrietta Ivey, homecare worker and Fight for $15 activist**
+-  **Dave Willis, Social Studies teacher**
+-  **Beth Mathias, factory worker**
+-  **Jensen Walcott & Jake Reed**
+-  **Governor Tom Wolf, Pennsylvania**
+-  **Jennifer Granholm, former Michigan governor**
+-  **Doug Elmets, former Reagan Administration official**
+-  **Jennifer Pierotti Lim, Director of Health Policy, U.S. Chamber of Commerce & Co-Founder of Republican Women for Hillary**
+-  **Lupe Valdez, Dallas Sheriff**
 -  Jennifer Loudon, Wayne Walker, Wayne Owens, Barbara Owens; family members of fallen law enforcement officers
 -  Reverend William Barber
 -  **Khizr Khan, father of soldier who died serving the Army after 9/11 attacks**
--  Ted Lieu, U.S. Representative from California
--  General John Allen (ret. USMC), former Commander, International Security Assistance Forces, and Commander, United States Forces - Afghanistan
--  Florent Groberg, Retired U.S. Army Captain 
--  Chloe Grace Moretz
--  Xavier Becerra, U.S. Representative from California
--  Sherrod Brown, U.S. Senator from Ohio
+-  **Ted Lieu, U.S. Representative from California**
+-  **General John Allen (ret. USMC), former Commander, International Security Assistance Forces, and Commander, United States Forces - Afghanistan**
+-  **Florent Groberg, Retired U.S. Army Captain **l
+-  **Chloe Grace Moretz**
+-  **Xavier Becerra, U.S. Representative from California**
+-  **Sherrod Brown, U.S. Senator from Ohio**
 -  **Chelsea Clinton, Introduction of Hillary Clinton**
 -  **Hillary Clinton**
+
+**Others**
+
+- **Rev. Dr. Bernice A. King**
+- **Eddie Paul Torres**
+- **Jamie Harrison**
+- **Archbishop Demetrios**
+- **Michael Nutter**
+- **Dolores Huerta**
+- **Mary and Ted**
+- **Kareem Abdul-Jabbar**
+- **Katy Perry**
+- **The Reverend Bill Shillady**
